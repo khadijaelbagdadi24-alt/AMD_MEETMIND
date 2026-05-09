@@ -13,13 +13,13 @@
 - **LLM:** Llama 3.1 (via Hugging Face).
 - **Backend:** Python, FastAPI, vLLM.
 - **Automation:** n8n.
-- **Frontend:** Streamlit / React (ذكر سمية اللي خدمتي بيه).
+- **Frontend:** Streamlit / React 
 
 ## 💡 Why AMD?
 By using the **AMD Instinct MI300X**, we achieved high throughput and low latency, which is crucial for real-time agricultural monitoring. The massive 192GB VRAM allowed us to load large models effortlessly, ensuring farmers get instant insights even with complex datasets.
 
 ## 🔧 Installation & Setup
-1. **Clone the repo:** `git clone https://github.com/yourusername/MeetMind.git`
+1. **Clone the repo:** `git clone https://github.com/khadijaelbagdadi24-alt/AMD_MEETMIND.git`
 2. **Install dependencies:** `pip install -r requirements.txt`
 3. **Run the Backend:** `python main.py`
 4. **Access n8n:** Import `workflow.json` into your n8n instance.
@@ -27,5 +27,5 @@ By using the **AMD Instinct MI300X**, we achieved high throughput and low latenc
 ## 🏆 AMD Developer Hackathon 2026
 This project was built as part of the **AMD AI Developer Hackathon** on Lablab.ai.
 The system includes an automated n8n workflow that receives AI-generated weather reports via Webhooks, logs them into Google Sheets for historical tracking, and sends instant email alerts to users.
-https://huggingface.co/collections/khadijae/meetmind-ai-stack
-https://x.com/KElbagdadi/status/2053077910693589174
+**https://huggingface.co/collections/khadijae/meetmind-ai-stack**
+**https://x.com/KElbagdadi/status/2053077910693589174**
