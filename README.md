@@ -27,3 +27,5 @@ By using the **AMD Instinct MI300X**, we achieved high throughput and low latenc
 ## 🏆 AMD Developer Hackathon 2026
 This project was built as part of the **AMD AI Developer Hackathon** on Lablab.ai.
 The system includes an automated n8n workflow that receives AI-generated weather reports via Webhooks, logs them into Google Sheets for historical tracking, and sends instant email alerts to users.
+https://huggingface.co/collections/khadijae/meetmind-ai-stack
+https://x.com/KElbagdadi/status/2053077910693589174
